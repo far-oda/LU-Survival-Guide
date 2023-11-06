@@ -6,7 +6,7 @@ By: Fares Al-Odat
 For questions or suggestions, contact me on: support@cybersec.8shield.net
 
 List of Content:
-[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1))
+[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
 
 
 If you don’t find something you can check the ASK page: 

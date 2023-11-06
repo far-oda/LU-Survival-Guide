@@ -1,4 +1,4 @@
-# Lancaster-University-Survival-Guide
+# Lancaster University Survival Guide
 
 Survival guide for graduate college students
 By: Fares Al-Odat
@@ -6,6 +6,7 @@ By: Fares Al-Odat
 For questions or suggestions, contact me on: support@cybersec.8shield.net
 
 List of Content:
+[Go to Section 1](##section-1)
 
 
 If you don’t find something you can check the ASK page: 
@@ -47,6 +48,7 @@ LinkedIn Learning: https://portal.lancaster.ac.uk/ask/study/linkedinlearning/
 
 Laundry: You can check the availability of the launderettes through iLancaster and pay for the washing through the Circuit app https://www.circuit.co.uk/how-to-guides/circuit-laundry-app/. I advise using PayPal to get a faster refund in case any issues occur.
 
+## section-1
 Navigation apps: Mazemaps, Google Maps, StageCoach, and Waze:
 
 When it comes to navigating on campus, it’s better to use mazemaps since it shows every room on campus (including which floor), but if it glitches out, you can always use Google Maps and get close enough to find your way.

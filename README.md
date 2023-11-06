@@ -1,15 +1,13 @@
-# Lancaster University Survival Guide
+### Survival guide for graduate college students _By: Fares Al-Odat_
 
-## Survival guide for graduate college students _By: Fares Al-Odat_
-
-*For questions or suggestions, contact me on: support@cybersec.8shield.net*
+*For questions or suggestions, contact me on: [support@cybersec.8shield.net](mailto:support@cybersec.8shield.net)*
 
 If you don’t find something you can check the ASK page: 
-https://portal.lancaster.ac.uk/ask/,call the university, or email me at the address above.
+[Click Here](https://portal.lancaster.ac.uk/ask/), call the university, or email me at the address above.
 
 # List of Content:
 
-[Suggested Apps](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
+**[Suggested Apps](https://far-oda.github.io/Lancaster-University-Survival-Guide/#suggested-apps)**
 
 [Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
 
@@ -32,40 +30,38 @@ https://portal.lancaster.ac.uk/ask/,call the university, or email me at the addr
 
 ## Suggested Apps
 Here’s a list of apps that you must have in Lancaster as a student:
-iLancaster: This app will be your everyday guide throughout the campus, whether its classes, marks, laundry, fixing an issue, library, modules, and other.
+**iLancaster**: This app will be your everyday guide throughout the campus, whether its classes, marks, laundry, fixing an issue, library, modules, and other.
 Here’s a list of notable features:
-Self Check-in: The professor won’t check you in for class; you will do it yourself through the app. Just go to the calendar section, open the day’s session, and you can check in 5 min before the start of the lecture.
-Fun tip: If you’re not feeling like attending, you can check in outside the class, just be close enough to the room.
-Map: It’s similar to mazemaps but more oriented for the campus. It displays available PC spaces, laundry space availability, buses, food places, and even booking spaces.
-FixAFault: If anything is broken in your building, report it with FixAFault, and it will be sorted. You can access it through iLancaster or through this link: https://www.lancaster.ac.uk/itpi/fix/
+**Self Check-in**: The professor won’t check you in for class; you will do it yourself through the app. Just go to the calendar section, open the day’s session, and you can check in 5 min before the start of the lecture.
+_Fun tip_: If you’re not feeling like attending, you can check in outside the class, just be close enough to the room.
+**Map**: It’s similar to mazemaps but more oriented for the campus. It displays available PC spaces, laundry space availability, buses, food places, and even booking spaces.
+**FixAFault**: If anything is broken in your building, report it with FixAFault, and it will be sorted. You can access it through iLancaster or through this link: https://www.lancaster.ac.uk/itpi/fix/
 And if you want more information on this, follow this link: https://portal.lancaster.ac.uk/ask/campus/campus-services/maintenance-and-upkeep/report-a-fault-with-on-campus-facilities/
-Interactive Transcript: Once your marks are released, you can see them in the interactive transcript section or at this link: https://mylusi.lancaster.ac.uk/AcademicMarks/
-
-Library: This link provides everything you need when it comes to the library, including study space booking, reporting noise, and seeing any fines. Here’s a list of library and other links:
-
-Database of resources: https://lancaster.libguides.com/az.php
-Resources List: https://portal.lancaster.ac.uk/ask/study/library/resources/resource-lists/
-Library Opening Hours: https://portal.lancaster.ac.uk/ask/study/library/visiting/
-Request a book that’s not in the library: https://resource-request.library.lancs.ac.uk/
-Book appointments with faculty:
+**Interactive Transcript**: Once your marks are released, you can see them in the interactive transcript section or at this link: https://mylusi.lancaster.ac.uk/AcademicMarks/
+**Library**: This link provides everything you need when it comes to the library, including study space booking, reporting noise, and seeing any fines. Here’s a list of library and other links:
+*Database of resources*: https://lancaster.libguides.com/az.php
+*Resources List*: https://portal.lancaster.ac.uk/ask/study/library/resources/resource-lists/
+*Library Opening Hours*: https://portal.lancaster.ac.uk/ask/study/library/visiting/
+*Request a book that’s not in the library*: https://resource-request.library.lancs.ac.uk/
+*Book appointments with faculty*:
 https://portal.lancaster.ac.uk/ask/contact/library/library-teaching-and-engagement-team/
 https://lancaster-uk.libcal.com/appointments
-Information about different facilities on campus:
+*Information about different facilities on campus*:
 https://portal.lancaster.ac.uk/ask/campus/study-and-social-spaces/
-Booking study spaces:
+*Booking study spaces*:
 https://timetabling.lancaster.ac.uk/RoomBooking/Default.aspx
 https://lancaster-uk.libcal.com/r
-PC Labs:
+*PC Labs*:
 https://portal.lancaster.ac.uk/ask/campus/study-and-social-spaces/pc-labs/
-Term Dates and Calendar:
+*Term Dates and Calendar*:
 https://portal.lancaster.ac.uk/ask/study/term-dates-calendar/
-Printing:
+*Printing*:
 https://print.lancaster.ac.uk/
-Checking in:
+*Checking in*:
 https://portal.lancaster.ac.uk/ask/attendance/
-LinkedIn Learning: https://portal.lancaster.ac.uk/ask/study/linkedinlearning/
+*LinkedIn Learning*: https://portal.lancaster.ac.uk/ask/study/linkedinlearning/
 
-Laundry: You can check the availability of the launderettes through iLancaster and pay for the washing through the Circuit app https://www.circuit.co.uk/how-to-guides/circuit-laundry-app/. I advise using PayPal to get a faster refund in case any issues occur.
+**Laundry**: You can check the availability of the launderettes through iLancaster and pay for the washing through the Circuit app https://www.circuit.co.uk/how-to-guides/circuit-laundry-app/. I advise using PayPal to get a faster refund in case any issues occur.
 
 ## section-1
 Navigation apps: Mazemaps, Google Maps, StageCoach, and Waze:

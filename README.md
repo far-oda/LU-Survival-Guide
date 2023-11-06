@@ -9,68 +9,72 @@ If you don’t find something you can check the ASK page:
 
 **[Suggested Apps](https://far-oda.github.io/Lancaster-University-Survival-Guide/#suggested-apps)**
 
+**[iLancaster](https://far-oda.github.io/Lancaster-University-Survival-Guide/#iLancaster)**
+
+**[Navigation](https://github.com/far-oda/Lancaster-University-Survival-Guide/#navigation-apps-mazemaps-google-maps-stagecoach-and-waze)**
+
+**[Banking](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking)**
+
+**[Banking](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking)**
+
+**[Banking](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking)**
+
+**[Banking](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking)**
+
+**[Banking](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking)**
+
+**[Banking](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking)**
+
 [Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)
-
-[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
-
-[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
-
-[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
-
-[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
-
-[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
-
-[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
-
-[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
-
-[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
-
 
 ## Suggested Apps
 Here’s a list of apps that you must have in Lancaster as a student:
-**iLancaster**: This app will be your everyday guide throughout the campus, whether its classes, marks, laundry, fixing an issue, library, modules, and other.
+
+## iLancaster: 
+
+This app will be your everyday guide throughout the campus, whether its classes, marks, laundry, fixing an issue, library, modules, and other. You can download it from here: **[iLancaster](https://portal.lancaster.ac.uk/ask/mobile)** 
+
 Here’s a list of notable features:
+
 **Self Check-in**: The professor won’t check you in for class; you will do it yourself through the app. Just go to the calendar section, open the day’s session, and you can check in 5 min before the start of the lecture.
 _Fun tip_: If you’re not feeling like attending, you can check in outside the class, just be close enough to the room.
+
 **Map**: It’s similar to mazemaps but more oriented for the campus. It displays available PC spaces, laundry space availability, buses, food places, and even booking spaces.
-**FixAFault**: If anything is broken in your building, report it with FixAFault, and it will be sorted. You can access it through iLancaster or through this link: https://www.lancaster.ac.uk/itpi/fix/
-And if you want more information on this, follow this link: https://portal.lancaster.ac.uk/ask/campus/campus-services/maintenance-and-upkeep/report-a-fault-with-on-campus-facilities/
-**Interactive Transcript**: Once your marks are released, you can see them in the interactive transcript section or at this link: https://mylusi.lancaster.ac.uk/AcademicMarks/
+
+**FixAFault**: If anything is broken in your building, report it with FixAFault, and it will be sorted. You can access it through iLancaster or through this link: **[Click Here](https://www.lancaster.ac.uk/itpi/fix)** 
+
+And if you want more information on this, follow this link: **[Click Here](https://portal.lancaster.ac.uk/ask/campus/campus-services/maintenance-and-upkeep/report-a-fault-with-on-campus-facilities)** 
+
+**Interactive Transcript**: Once your marks are released, you can see them in the interactive transcript section or at this link: **[Click Here](https://mylusi.lancaster.ac.uk/AcademicMarks)** 
+
 **Library**: This link provides everything you need when it comes to the library, including study space booking, reporting noise, and seeing any fines. Here’s a list of library and other links:
-*Database of resources*: https://lancaster.libguides.com/az.php
-*Resources List*: https://portal.lancaster.ac.uk/ask/study/library/resources/resource-lists/
-*Library Opening Hours*: https://portal.lancaster.ac.uk/ask/study/library/visiting/
-*Request a book that’s not in the library*: https://resource-request.library.lancs.ac.uk/
-*Book appointments with faculty*:
-https://portal.lancaster.ac.uk/ask/contact/library/library-teaching-and-engagement-team/
-https://lancaster-uk.libcal.com/appointments
-*Information about different facilities on campus*:
-https://portal.lancaster.ac.uk/ask/campus/study-and-social-spaces/
-*Booking study spaces*:
-https://timetabling.lancaster.ac.uk/RoomBooking/Default.aspx
-https://lancaster-uk.libcal.com/r
-*PC Labs*:
-https://portal.lancaster.ac.uk/ask/campus/study-and-social-spaces/pc-labs/
-*Term Dates and Calendar*:
-https://portal.lancaster.ac.uk/ask/study/term-dates-calendar/
-*Printing*:
-https://print.lancaster.ac.uk/
-*Checking in*:
-https://portal.lancaster.ac.uk/ask/attendance/
-*LinkedIn Learning*: https://portal.lancaster.ac.uk/ask/study/linkedinlearning/
 
-[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)
-**Laundry**: You can check the availability of the launderettes through iLancaster and pay for the washing through the Circuit app https://www.circuit.co.uk/how-to-guides/circuit-laundry-app/. I advise using PayPal to get a faster refund in case any issues occur.
+*[Database of resources](https://lancaster.libguides.com/az.php)* | *[Resources List](https://portal.lancaster.ac.uk/ask/study/library/resources/resource-lists)* | *[Library Opening Hours](https://portal.lancaster.ac.uk/ask/study/library/visiting)*
 
-## section-1
-Navigation apps: Mazemaps, Google Maps, StageCoach, and Waze:
+*[Request a book that’s not in the library](https://resource-request.library.lancs.ac.uk)* | *[Book appointments with faculty](https://portal.lancaster.ac.uk/ask/contact/library/library-teaching-and-engagement-team)* | *[Information about different facilities on campus](https://portal.lancaster.ac.uk/ask/campus/study-and-social-spaces)*
 
-When it comes to navigating on campus, it’s better to use mazemaps since it shows every room on campus (including which floor), but if it glitches out, you can always use Google Maps and get close enough to find your way.
-When it comes to city navigation, then trust Google Maps for the route, and StageCoach for the exact bus time. Waze is a great option if you have a car as it is updated by the community, and if there’s any issue on the road, you’ll be the first to know.
+*[Booking study spaces](https://lancaster-uk.libcal.com/r)* | *[PC Labs](https://portal.lancaster.ac.uk/ask/campus/study-and-social-spaces/pc-labs)* | *[Term Dates and Calendar](https://portal.lancaster.ac.uk/ask/study/term-dates-calendar)*
 
-Banking: This one is the most crucial thing you need to do. When it comes to banking in the UK, it’s hard to open an account since you’re new, got no credit, and if you live on campus, you don't have the council tax or a gas/water/electricity bill to prove your accommodation. So what is a student to do?!
+*[Printing](https://print.lancaster.ac.uk)* | *[Checking in](https://portal.lancaster.ac.uk/ask/attendance)* | *[LinkedIn Learning](https://portal.lancaster.ac.uk/ask/study/linkedinlearning)*
+
+
+
+**Laundry**: You can check the availability of the launderettes through iLancaster and pay for the washing through the *[Circuit app](https://www.circuit.co.uk/how-to-guides/circuit-laundry-app)*. I advise using PayPal to get a faster refund in case any issues occur.
+
+
+### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+
+## Navigation apps: Mazemaps, Google Maps, StageCoach, and Waze:
+
+When it comes to navigating on campus, it’s better to use *[MazeMaps](https://www.mazemap.com)* since it shows every room on campus (including which floor), but if it glitches out, you can always use *[Google Maps](https://maps.google.com)*  and get close enough to find your way.
+
+When it comes to city navigation, then trust Google Maps for the route, and  *[StageCoach](https://www.stagecoachbus.com/promos-and-offers/national/stagecoachbusapp)* for the exact bus time. 
+*[Waze](https://www.waze.com/apps)* is a great option if you have a car as it is updated by the community, and if there’s any issue on the road, you’ll be the first to know.
+
+### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+
+## Banking: 
+This one is the most crucial thing you need to do. When it comes to banking in the UK, it’s hard to open an account since you’re new, got no credit, and if you live on campus, you don't have the council tax or a gas/water/electricity bill to prove your accommodation. So what is a student to do?!
 
 Well, here are a few things that you should know!
 It’s easier to open an account through the app than in a branch. It asks for the same details as the bank does, but it uses your correct address and phone’s GPS to confirm your address. Then, once it verifies it, it sends a code through the post as a confirmation for your address, and then you’re in the clear.

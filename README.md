@@ -9,7 +9,7 @@ If you don’t find something you can check the ASK page:
 
 **[Suggested Apps](https://far-oda.github.io/Lancaster-University-Survival-Guide/#suggested-apps)**
 
-[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
+[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)
 
 [Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
 
@@ -61,6 +61,7 @@ https://print.lancaster.ac.uk/
 https://portal.lancaster.ac.uk/ask/attendance/
 *LinkedIn Learning*: https://portal.lancaster.ac.uk/ask/study/linkedinlearning/
 
+[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)
 **Laundry**: You can check the availability of the launderettes through iLancaster and pay for the washing through the Circuit app https://www.circuit.co.uk/how-to-guides/circuit-laundry-app/. I advise using PayPal to get a faster refund in case any issues occur.
 
 ## section-1

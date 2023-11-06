@@ -1,17 +1,36 @@
 # Lancaster University Survival Guide
 
-Survival guide for graduate college students
-By: Fares Al-Odat
+## Survival guide for graduate college students _By: Fares Al-Odat_
 
-For questions or suggestions, contact me on: support@cybersec.8shield.net
-
-List of Content:
-[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
-
+*For questions or suggestions, contact me on: support@cybersec.8shield.net*
 
 If you don’t find something you can check the ASK page: 
 https://portal.lancaster.ac.uk/ask/,call the university, or email me at the address above.
 
+# List of Content:
+
+[Suggested Apps](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
+
+[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
+
+[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
+
+[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
+
+[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
+
+[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
+
+[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
+
+[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
+
+[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
+
+[Go to Section 1](https://far-oda.github.io/Lancaster-University-Survival-Guide/#section-1)
+
+
+## Suggested Apps
 Here’s a list of apps that you must have in Lancaster as a student:
 iLancaster: This app will be your everyday guide throughout the campus, whether its classes, marks, laundry, fixing an issue, library, modules, and other.
 Here’s a list of notable features:

@@ -9,33 +9,33 @@ If you don’t find something you can check the ASK page:
 # List of Content:
 
 **[Suggested Apps](#suggested-apps)** | **[iLancaster](#ilancaster)** | **[Navigation Apps](#navigation-apps)**
-
+|  |  |  |
 **[Banking](#banking)** | **[Banking Addons](#banking-addons)**
-
+|  |  |  |
 **[Internet](#internetethernet)** | **[Something Is Broken](#something-is-broken)** | **[IT Issues](#issues-with-account-and-it)** 
-
+|  |  |  |
 **[Health (Physical & Mental)](#health)** | **[Religion](#religion)** 
-
+|  |  |  |
 **[Saving Money](#saving-money)** | **[Food](#food)** | **[Clothes](#clothes)**
-
+|  |  |  |
 **[Discounts](#discount-programs)** | **[Travel](#travel)** | **[Amazon](#amazon-shipping-and-lockers)** 
-
+|  |  |  |
 **[Mobile Plan](#mobile-plans)** 
-
+|  |  |  |
 **[Jobs](#jobs)** | **[CV Help](#cv-help)** 
-
+|  |  |  |
 **[Annoyances On Campus](#annoyances-on-campus)** 
-
+|  |  |  |
 **[Student Union](#student-union)** 
-
+|  |  |  |
 **[Facilities](#facilities)** 
-
+|  |  |  |
 **[Fun](#fun)** | **[Social Hub/Trips](#social-hubtrips)** | **[Clubbing](#sugarhousevibegreenscraftysgenerations)**
-
+|  |  |  |
 **[Going Back Home](#going-back-home)** 
-
+|  |  |  |
 **[Travelling Outside UK](#travelling-outside-uk)** 
-
+|  |  |  |
 **[Final Thoughts](#final-thoughts)** 
 
 ## Suggested Apps

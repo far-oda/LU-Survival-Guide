@@ -266,7 +266,7 @@ They have a huge selection of everything. And if that's not to your liking, then
 
 ### _**[Press to go back](#list-of-content)**_
 
-### Discounts Programs
+### Discount Programs
 
 _**As a student, you're given discounts throughout the UK. Just ask any store if they have a student discount, and most likely they do. You show your student ID and get the discount, that simple.**_
 

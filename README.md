@@ -20,23 +20,13 @@ If you don’t find something you can check the ASK page:
 
 **[Discounts](#discount-programs)** | **[Travel](#travel)** | **[Amazon](#amazon-shipping-and-lockers)** 
 
-**[Mobile Plan](#mobile-plans)** 
-| - | - | - |
-**[Jobs](#jobs)** | **[CV Help](#cv-help)** 
+**[Mobile Plan](#mobile-plans)** | **[Jobs](#jobs)** | **[CV Help](#cv-help)** 
 
-**[Annoyances On Campus](#annoyances-on-campus)** 
-| - | - | - |
-**[Student Union](#student-union)** 
-| - | - | - |
-**[Facilities](#facilities)** 
-| - | - | - |
+**[Annoyances On Campus](#annoyances-on-campus)** | **[Student Union](#student-union)** | **[Facilities](#facilities)** 
+
 **[Fun](#fun)** | **[Social Hub/Trips](#social-hubtrips)** | **[Clubbing](#sugarhousevibegreenscraftysgenerations)**
 
-**[Going Back Home](#going-back-home)** 
-| - | - | - |
-**[Travelling Outside UK](#travelling-outside-uk)** 
-| - | - | - |
-**[Final Thoughts](#final-thoughts)** 
+**[Going Back Home](#going-back-home)** | **[Travelling Outside UK](#travelling-outside-uk)** | **[Final Thoughts](#final-thoughts)** 
 
 ## Suggested Apps
 Here’s a list of apps that you must have in Lancaster as a student:

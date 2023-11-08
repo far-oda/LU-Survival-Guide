@@ -8,31 +8,31 @@ If you don’t find something you can check the ASK page:
 
 # List of Content:
 
-**[Suggested Apps](https://far-oda.github.io/Lancaster-University-Survival-Guide/#suggested-apps)** | **[iLancaster](https://far-oda.github.io/Lancaster-University-Survival-Guide/#ilancaster)** | **[Navigation Apps](#navigation-apps)**
+**[Suggested Apps](#suggested-apps)** | **[iLancaster](#ilancaster)** | **[Navigation Apps](#navigation-apps)**
 
-**[Banking](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking)** | **[Banking Addons](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking-addons)**
+**[Banking](#banking)** | **[Banking Addons](#banking-addons)**
 
-**[Internet](https://github.com/far-oda/Lancaster-University-Survival-Guide/#internetethernet)** | **[Something Is Broken](https://github.com/far-oda/Lancaster-University-Survival-Guide/#something-is-broken)** | **[IT Issues](https://github.com/far-oda/Lancaster-University-Survival-Guide/#issues-with-account-and-it)** 
+**[Internet](#internetethernet)** | **[Something Is Broken](#something-is-broken)** | **[IT Issues](#issues-with-account-and-it)** 
 
-**[Health (Physical & Mental)](https://github.com/far-oda/Lancaster-University-Survival-Guide/#health)** | **[Religion](https://github.com/far-oda/Lancaster-University-Survival-Guide/#religion)** 
+**[Health (Physical & Mental)](#health)** | **[Religion](#religion)** 
 
-**[Saving Money](https://github.com/far-oda/Lancaster-University-Survival-Guide/#saving-money)** | **[Food](https://github.com/far-oda/Lancaster-University-Survival-Guide/#food)** | **[Clothes](https://github.com/far-oda/Lancaster-University-Survival-Guide/#clothes)** | **[Discount Programs](https://github.com/far-oda/Lancaster-University-Survival-Guide/#discount-programs)** | **[Travel](https://github.com/far-oda/Lancaster-University-Survival-Guide/#travel)** | **[Amazon Shopping](https://github.com/far-oda/Lancaster-University-Survival-Guide/##amazon-shipping-and-lockers)** 
+**[Saving Money](#saving-money)** | **[Food](#food)** | **[Clothes](#clothes)** | **[Discount Programs](#discount-programs)** | **[Travel](#travel)** | **[Amazon Shopping](#amazon-shipping-and-lockers)** 
 
-**[Mobile Plane](https://github.com/far-oda/Lancaster-University-Survival-Guide/#mobile-plans)** 
+**[Mobile Plane](#mobile-plans)** 
 
-**[Jobs](https://github.com/far-oda/Lancaster-University-Survival-Guide/#jobs)** | **[CV Help](https://github.com/far-oda/Lancaster-University-Survival-Guide/#cv-help)** 
+**[Jobs](#jobs)** | **[CV Help](#cv-help)** 
 
-**[Annoyances On Campus](https://github.com/far-oda/Lancaster-University-Survival-Guide/#annoyances-on-campus)** 
+**[Annoyances On Campus](#annoyances-on-campus)** 
 
-**[Student Union](https://github.com/far-oda/Lancaster-University-Survival-Guide/#student-union)** 
+**[Student Union](#student-union)** 
 
-**[Facilities](https://github.com/far-oda/Lancaster-University-Survival-Guide/#facilities)** 
+**[Facilities](#facilities)** 
 
-**[Fun](https://github.com/far-oda/Lancaster-University-Survival-Guide/#fun)** | **[Social Hub/Trips](https://github.com/far-oda/Lancaster-University-Survival-Guide/#social-hubtrips)** | **[Sugarhouse/Vibe/Greens/Craftys/Generations](https://github.com/far-oda/Lancaster-University-Survival-Guide/#sugarhousevibegreenscraftysgenerations)** | **[Going Back Home](https://github.com/far-oda/Lancaster-University-Survival-Guide/##going-back-home)** 
+**[Fun](#fun)** | **[Social Hub/Trips](#social-hubtrips)** | **[Sugarhouse/Vibe/Greens/Craftys/Generations](#sugarhousevibegreenscraftysgenerations)** | **[Going Back Home](#going-back-home)** 
 
-**[Travelling Outside UK](https://github.com/far-oda/Lancaster-University-Survival-Guide/#travelling-outside-uk)** 
+**[Travelling Outside UK](#travelling-outside-uk)** 
 
-**[Final Thoughts](https://github.com/far-oda/Lancaster-University-Survival-Guide/#final-thoughts)** 
+**[Final Thoughts](#final-thoughts)** 
 
 ## Suggested Apps
 Here’s a list of apps that you must have in Lancaster as a student:
@@ -69,7 +69,7 @@ And if you want more information on this, follow this link: **[Click Here](https
 
 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 
 ## Navigation Apps 
@@ -130,7 +130,7 @@ is your globe-trotter buddy with support for many worldwide currencies, so you c
 
 • Sign up here for **Wise**:  **[Click Here](https://wise.com/invite/ahpc/faresa408)** 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ## Banking Addons
 
@@ -176,7 +176,7 @@ Beginners, keep your hands to yourselves here.
 
 For other financial wisdom, check out this page:  **[Click Here](https://portal.lancaster.ac.uk/ask/money/managing)** 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ## Internet/Ethernet
 The campus's internet is managed by eduroam, which means if you've set it up, you can still get access to eduroam in the city where it's supported.
@@ -187,14 +187,14 @@ If you love the stable connection of Ethernet, then you have to set it up manual
 
 For details on how to do that, **[Click Here](https://portal.lancaster.ac.uk/ask/wired-network)** 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ## Something is broken
 
 ### Issues with account and IT
 In this case, you need to contact ISS directly, either through their live chat or by calling them. You can find more information here: **[Click Here](https://portal.lancaster.ac.uk/ask/it-help)** 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ### Health
 When it comes to health in the UK, the NHS is the main entity, and frankly speaking, it's pretty dreadful, to say the least. 
@@ -227,12 +227,12 @@ Email them and say that you need a therapist to help with wellbeing issues; tell
 
 • Their Email: [support@cybersec.8shield.net](mailto:counselling@lancaster.ac.uk)*
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 #### Religion
 For those who practice religion, you can continue to do so at the Chaplaincy Centre: **[Click Here](https://portal.lancaster.ac.uk/ask/campus/chaplaincy-centre)** 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ## Saving Money
 We students are broke, having given our last penny to the educational system. So what is a person to do? 
@@ -254,13 +254,13 @@ Some days you don't want to cook, so your options are to starve, which won’t l
 
 • You can get Deliveroo Plus for free with Amazon Prime here:  **[Click Here](https://deliveroo.co.uk/amazon-prime?utm_source=deliveroo_android_account_link)** 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ### Clothes
 If you want cheap clothes but not bad quality, then **Primark** is your friend. 
 They have a huge selection of everything. And if that's not to your liking, then there's **Sports Direct**, but you'll have to head to Morecambe for that.
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ### Discounts Programs
 
@@ -274,7 +274,7 @@ Schemes such as **UniDays**, **Student Beans**, and **NUS Totum** offer discount
 
 • For Totum, sign up here:  **[Click Here](https://totum.com)** 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ### Travel 
 _**For traveling by train, it's best to get a railcard for the year; it will provide a 1/3 saving on each trip. It will pay for itself in just a few trips, costing only £30 a year or £70 for 3 years.**_
@@ -289,7 +289,7 @@ As for the busses themselves, you will find that 100 and 4 are the **slowest**. 
 
 Regarding the bus passes, If you use the bus more than 4 times a week then definitely get a bus pass, same goes for daily passes if you have more than one trip a day. 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 #### Amazon Shipping and Lockers
 To save money on shipping costs, get Amazon Prime free for 6 months using UniDays, and then the cost is 50% off on yearly Prime from that point. 
@@ -300,7 +300,7 @@ _**And when you need to return any item, use the Royal Mail option with a QR cod
 
 • For Amazon Prime, sign up here (Do it through UniDays):  **[Click Here](https://www.amazon.co.uk/joinstudent)** 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 #### Mobile Plans
 If you need a good provider that has cheap deals and good service, then I highly recommend **Voxi**, which is supported by Vodafone 5G. 
@@ -309,7 +309,7 @@ I’ve tried most of them, and this one is just right.
 
 • For Voxi, sign up here:  **[Click Here](https://join.voxi.co.uk/mtfflc)** 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ## Jobs
 As a student, you might wanna work to support those extra expenses. **I don't recommend snagging a job since it's better to focus on your studies**, but if you reckon you can juggle the two, then here's the scoop. 
@@ -324,7 +324,7 @@ If that's a no-go, shoot your shot for any gig in town or at campus stores and r
 
 • For Jobs in university: **[Click Here](https://www.lancaster.ac.uk/employment-and-recruitment-service)** 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ### CV help
 To land a job, you need a bangin' Resume/CV, and guess what? The university offers a free service to polish yours. 
@@ -333,7 +333,7 @@ Just book a slot, flash your current CV, and if it's non existent, they'll help 
 
 PS: They do have meetings every friday in Social Hub Kitchen from
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ## Annoyances on campus
 Nothing is perfect in this world, sorry. 
@@ -347,14 +347,14 @@ From loud people ruining focus, to smell of weed everywhere, to aggressive and c
 
 **Other contact info**:  **[Click Here](https://portal.lancaster.ac.uk/ask/contact)** 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ## Student union
 This crew's here to make sure you're living your best uni life, from getting down in sports and societies to local volunteering and snagging advice and support. 
 
 Don't sleep on this resource.  **[Click Here](https://lancastersu.co.uk)**
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ## Facilities
 Most are open for the card-swiping students from **8 AM to 6 PM**. 
@@ -372,7 +372,7 @@ That Wednesday at 1 PM sharp noise test? Yeah, that's the fire alarm. For the fu
 
 For more information: **[Click Here](https://portal.lancaster.ac.uk/ask/campus/campus-services/maintenance-and-upkeep/fire-fighting-and-prevention-on-campus)** 
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ## Fun
 There’s many ways to have fun on campus, you don’t have to be a hermit and just study.
@@ -404,12 +404,12 @@ with clubbing comes going home eventually.
 
 If you go out and coming back after 12 AM then the only bus available back to underpass in the **N1 bus** which runs **every half an hour till 3 am**, and then you’ll either **walk back** or **order a taxi**.
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ## Travelling outside UK
 If you want to go home for the holidays or in the Easter break or anytime period, you should contact your department and confirm if you need permission to do so as some projects will prevent you from leaving and terminate your visa if you do as a security precaution.
 
-### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
+### _**[Press to go back](#list-of-content)**_
 
 ## Final thoughts
 Reflecting on the past year, I realize it's been a journey rich with diverse experiences. I made it a point to attend various events, opening myself up to the joy of new friendships. While not all connections flourished, the ones that did have been incredibly meaningful. This taught me an important lesson: don't be discouraged by setbacks; rather, embrace the opportunity to engage with others.
@@ -419,3 +419,5 @@ Dedication marked my approach to studies—I committed wholeheartedly, actively 
 This year has been transformative; it has encouraged an introverted individual like me to step out of my shell. I've become more open, friendly, and eager to assist others. This experience has shown me that such a transformation is possible for anyone willing to embrace it.
 
 The opportunity to immerse oneself in such an experience comes once in a lifetime. I encourage you to savor every moment and venture beyond your comfort zone. There is so much to gain, and you might find that the only regret is in holding back. Embrace the experience in its entirety—you never know where it might lead you.
+
+### _**[Press to go back](#list-of-content)**_

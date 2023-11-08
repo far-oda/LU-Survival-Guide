@@ -9,7 +9,7 @@ If you don’t find something you can check the ASK page:
 # List of Content:
 
 **[Suggested Apps](#suggested-apps)** | **[iLancaster](#ilancaster)** | **[Navigation Apps](#navigation-apps)**
-|  |  |  |
+| - | - | - |
 **[Banking](#banking)** | **[Banking Addons](#banking-addons)**
 |  |  |  |
 **[Internet](#internetethernet)** | **[Something Is Broken](#something-is-broken)** | **[IT Issues](#issues-with-account-and-it)** 

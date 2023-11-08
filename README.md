@@ -18,7 +18,7 @@ If you don’t find something you can check the ASK page:
 
 **[Saving Money](#saving-money)** | **[Food](#food)** | **[Clothes](#clothes)** | **[Discounts](#discount-programs)** | **[Travel](#travel)** | **[Amazon](#amazon-shipping-and-lockers)** 
 
-**[Mobile Plane](#mobile-plans)** 
+**[Mobile Plan](#mobile-plans)** 
 
 **[Jobs](#jobs)** | **[CV Help](#cv-help)** 
 

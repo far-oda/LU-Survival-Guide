@@ -219,7 +219,7 @@ And if you need a therapist, the university provides a service with **Spectrum L
 
 Email them and say that you need a therapist to help with wellbeing issues; tell them that you need a face-to-face or a phone therapist and that the guides on ask are not enough for you.
 
-• Their Email: [support@cybersec.8shield.net](mailto:counselling@lancaster.ac.uk)*
+• Their Email: [counselling@lancaster.ac.uk](mailto:counselling@lancaster.ac.uk)*
 
 ### _**[Press to go back](#list-of-content)**_
 

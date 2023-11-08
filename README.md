@@ -339,8 +339,11 @@ Nothing is perfect in this world, sorry.
 From loud people ruining focus, to smell of weed everywhere, to aggressive and creepy behaviours. Don’t be silent, you can always contact security, or the porter and you should, to help you and your fellow students.
 
 **Graduate Porter Number**: **[01524593194](tel:01524593194)** 
+
 **Security Number**:  **[01524594541](tel:01524594541)** 
+
 **Operator**: **[01524510600](tel:01524510600)** 
+
 **Other contact info**:  **[Click Here](https://portal.lancaster.ac.uk/ask/contact)** 
 
 ### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_

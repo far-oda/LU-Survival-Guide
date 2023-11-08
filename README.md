@@ -8,7 +8,7 @@ If you don’t find something you can check the ASK page:
 
 # List of Content:
 
-**[Suggested Apps](https://far-oda.github.io/Lancaster-University-Survival-Guide/#suggested-apps)** | **[iLancaster](https://far-oda.github.io/Lancaster-University-Survival-Guide/#ilancaster)** | **[Navigation Apps](https://github.com/far-oda/Lancaster-University-Survival-Guide/#navigation-apps)**
+**[Suggested Apps](https://far-oda.github.io/Lancaster-University-Survival-Guide/#suggested-apps)** | **[iLancaster](https://far-oda.github.io/Lancaster-University-Survival-Guide/#ilancaster)** | **[Navigation Apps](#navigation-apps)**
 
 **[Banking](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking)** | **[Banking Addons](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking-addons)**
 

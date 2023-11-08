@@ -7,43 +7,19 @@ If you don’t find something you can check the ASK page:
 
 # List of Content:
 
-**[Suggested Apps](https://far-oda.github.io/Lancaster-University-Survival-Guide/#suggested-apps)**
+**[Suggested Apps](https://far-oda.github.io/Lancaster-University-Survival-Guide/#suggested-apps)** | **[iLancaster](https://far-oda.github.io/Lancaster-University-Survival-Guide/#iLancaster)** | **[Navigation Apps](https://github.com/far-oda/Lancaster-University-Survival-Guide/#navigation-apps-mazemaps-google-maps-stagecoach-and-waze)**
 
-**[iLancaster](https://far-oda.github.io/Lancaster-University-Survival-Guide/#iLancaster)**
+**[Banking](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking)** | **[Banking Addons](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking-addons)**
 
-**[Navigation Apps](https://github.com/far-oda/Lancaster-University-Survival-Guide/#navigation-apps-mazemaps-google-maps-stagecoach-and-waze)**
+**[Internet](https://github.com/far-oda/Lancaster-University-Survival-Guide/#internetethernet)** | **[Something Is Broken](https://github.com/far-oda/Lancaster-University-Survival-Guide/#something-is-broken)** | **[IT Issues](https://github.com/far-oda/Lancaster-University-Survival-Guide/#issues-with-account-and-it)** 
 
-**[Banking](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking)**
+**[Health (Physical & Mental)](https://github.com/far-oda/Lancaster-University-Survival-Guide/#health)** | **[Religion](https://github.com/far-oda/Lancaster-University-Survival-Guide/#religion)** 
 
-**[Banking Addons](https://github.com/far-oda/Lancaster-University-Survival-Guide/#banking-addons)**
-
-**[Internet](https://github.com/far-oda/Lancaster-University-Survival-Guide/#internetethernet)** 
-
-**[Something Is Broken](https://github.com/far-oda/Lancaster-University-Survival-Guide/#something-is-broken)** 
-
-**[IT Issues](https://github.com/far-oda/Lancaster-University-Survival-Guide/#issues-with-account-and-it)** 
-
-**[Health (Physical & Mental)](https://github.com/far-oda/Lancaster-University-Survival-Guide/#health)**
-
-**[Religion](https://github.com/far-oda/Lancaster-University-Survival-Guide/#religion)** 
-
-**[Saving Money](https://github.com/far-oda/Lancaster-University-Survival-Guide/#saving-money)**
-
-**[Food](https://github.com/far-oda/Lancaster-University-Survival-Guide/#food)** 
-
-**[Clothes](https://github.com/far-oda/Lancaster-University-Survival-Guide/#clothes)** 
-
-**[Discount Programs](https://github.com/far-oda/Lancaster-University-Survival-Guide/#discount-programs)** 
-
-**[Travel](https://github.com/far-oda/Lancaster-University-Survival-Guide/#travel)** 
-
-**[Amazon Shopping](https://github.com/far-oda/Lancaster-University-Survival-Guide/##amazon-shipping-and-lockers)** 
+**[Saving Money](https://github.com/far-oda/Lancaster-University-Survival-Guide/#saving-money)** | **[Food](https://github.com/far-oda/Lancaster-University-Survival-Guide/#food)** | **[Clothes](https://github.com/far-oda/Lancaster-University-Survival-Guide/#clothes)** | **[Discount Programs](https://github.com/far-oda/Lancaster-University-Survival-Guide/#discount-programs)** | **[Travel](https://github.com/far-oda/Lancaster-University-Survival-Guide/#travel)** | **[Amazon Shopping](https://github.com/far-oda/Lancaster-University-Survival-Guide/##amazon-shipping-and-lockers)** 
 
 **[Mobile Plane](https://github.com/far-oda/Lancaster-University-Survival-Guide/#mobile-plans)** 
 
-**[Jobs](https://github.com/far-oda/Lancaster-University-Survival-Guide/#jobs)** 
-
-**[CV Help](https://github.com/far-oda/Lancaster-University-Survival-Guide/#cv-help)** 
+**[Jobs](https://github.com/far-oda/Lancaster-University-Survival-Guide/#jobs)** | **[CV Help](https://github.com/far-oda/Lancaster-University-Survival-Guide/#cv-help)** 
 
 **[Annoyances On Campus](https://github.com/far-oda/Lancaster-University-Survival-Guide/#annoyances-on-campus)** 
 
@@ -51,13 +27,7 @@ If you don’t find something you can check the ASK page:
 
 **[Facilities](https://github.com/far-oda/Lancaster-University-Survival-Guide/#facilities)** 
 
-**[Fun](https://github.com/far-oda/Lancaster-University-Survival-Guide/#fun)** 
-
-**[Social Hub/Trips](https://github.com/far-oda/Lancaster-University-Survival-Guide/#social-hubtrips)** 
-
-**[Sugarhouse/Vibe/Greens/Craftys/Generations](https://github.com/far-oda/Lancaster-University-Survival-Guide/#sugarhousevibegreenscraftysgenerations)** 
-
-**[Buses](https://github.com/far-oda/Lancaster-University-Survival-Guide/#busses-and-bus-passes-and-n1)** 
+**[Fun](https://github.com/far-oda/Lancaster-University-Survival-Guide/#fun)** | **[Social Hub/Trips](https://github.com/far-oda/Lancaster-University-Survival-Guide/#social-hubtrips)** | **[Sugarhouse/Vibe/Greens/Craftys/Generations](https://github.com/far-oda/Lancaster-University-Survival-Guide/#sugarhousevibegreenscraftysgenerations)** | **[Going Back Home](https://github.com/far-oda/Lancaster-University-Survival-Guide/##going-back-home)** 
 
 **[Travelling Outside UK](https://github.com/far-oda/Lancaster-University-Survival-Guide/#travelling-outside-uk)** 
 
@@ -314,6 +284,10 @@ This works for people aged 16-25.
 
 If you are above that, then you can **[Click Here](https://www.railcard.co.uk)** instead, which is the same price but doesn't offer a 3-year plan. 
 
+As for the busses themselves, you will find that 100 and 4 are the **slowest**. 40, 1A, and 1 are the **fastest**, and 41 and 42 are the **mid**.
+
+Regarding the bus passes, If you use the bus more than 4 times a week then definitely get a bus pass, same goes for daily passes if you have more than one trip a day. 
+
 ### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
 
 #### Amazon Shipping and Lockers
@@ -421,14 +395,10 @@ When it comes to clubbing then there’s plenty of places in town to do so.
 
 **Generations** which is an LGBTQ+ club which has a fun atmosphere and open till 4 AM.
 
-### Busses and bus passes, and N1
+### Going Back Home
 with clubbing comes going home eventually. 
 
 If you go out and coming back after 12 AM then the only bus available back to underpass in the **N1 bus** which runs **every half an hour till 3 am**, and then you’ll either **walk back** or **order a taxi**.
-
-As for the busses themselves, you will find that 100 and 4 are the **slowest**. 40, 1A, and 1 are the **fastest**, and 41 and 42 are the **mid**.
-
-Regarding the bus passes, If you use the bus more than 4 times a week then definitely get a bus pass, same goes for daily passes if you have more than one trip a day. 
 
 ### _**[Press to go back](https://far-oda.github.io/Lancaster-University-Survival-Guide/#list-of-content)**_
 

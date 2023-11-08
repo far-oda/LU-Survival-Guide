@@ -378,7 +378,7 @@ I highly recommend participate in every activity the grad college organises as i
 
 It also has a kitchen which you can book and organize events of your own with space up to **20 people**. 
 
-**[Click Here To Book The Kitchen](https://lancasteruni.eu.qualtrics.com/jfe/form/SV_8dJAIAaPx3H0bJ4s)**  
+**[Click Here To Book The Kitchen](https://lancasteruni.eu.qualtrics.com/jfe/form/SV_8dJAIAaPx3H0bJ4?Q_CHL=qr)**  
 
 All the trips organized by graduate college can be found here:  **[Click Here](https://online-payments.lancaster-university.co.uk/product-catalogue/college-events)** 
 

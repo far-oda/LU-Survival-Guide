@@ -2,6 +2,8 @@
 layout: minimal_mistakes
 ---
 
+
+
 # **Survival guide for graduate college students** 
 
 _By: Fares Al-Odat_

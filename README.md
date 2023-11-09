@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="main.css">
+
 # **Survival guide for graduate college students** 
 _By: Fares Al-Odat_
 

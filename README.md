@@ -376,6 +376,12 @@ Most of the graduate events will be held at social hub, whether they are officia
 
 I highly recommend participate in every activity the grad college organises as it will help you keep your sanity and discuss hardships with students who are going through the same thing.
 
+All of the upcoming events are advertised on instagram, and available on libcal.
+
+**Graduate College Instagram**: **[Click Here](https://instagram.com/gradcollege)** 
+
+**Libcal Booking**:  **[Click Here](https://lancaster-uk.libcal.com/calendar/graduate-college)** 
+
 It also has a kitchen which you can book and organize events of your own with space up to **20 people**. 
 
 **[Click Here To Book The Kitchen](https://lancasteruni.eu.qualtrics.com/jfe/form/SV_8dJAIAaPx3H0bJ4?Q_CHL=qr)**  

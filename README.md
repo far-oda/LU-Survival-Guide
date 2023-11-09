@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="main.css">
+## LU Survival Guide
 
 # **Survival guide for graduate college students** 
 

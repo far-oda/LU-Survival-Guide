@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="main.css">
 
 # **Survival guide for graduate college students** 
+
 _By: Fares Al-Odat_
 
 *For questions or suggestions, contact me on: [support@cybersec.8shield.net](mailto:support@cybersec.8shield.net)*

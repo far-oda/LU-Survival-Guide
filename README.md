@@ -1,4 +1,4 @@
-# **Survival guide for graduate college students** 
+# **Survival Guide For Graduate College Students** 
 
 _By: Fares Al-Odat_
 

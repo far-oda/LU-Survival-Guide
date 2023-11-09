@@ -403,7 +403,25 @@ When it comes to clubbing then there’s plenty of places in town to do so.
 ### Going Back Home
 with clubbing comes going home eventually. 
 
-If you go out and coming back after 12 AM then the only bus available back to underpass in the **N1 bus** which runs **every half an hour till 3 am**, and then you’ll either **walk back** or **order a taxi**.
+If you go out and coming back after 12 AM then the only bus available back to underpass in the **N1 bus** which runs on the weekend **every half an hour till 3 am**, and then you’ll either **walk back** or **order a taxi**.
+
+**• Order a taxi**
+
+In lancaster there's 3 taxi companies: **848 Taxis**, **32090 Taxis**, and **Coastal Taxis.** They accept cash and card.
+
+_**Uber** very rarely works in lancaster._
+
+_**I Highly advise to book a taxi half a day in advanced if there's a festival/event/holiday going on, since the sheer amount of people coming back will create traffic and you don't want to be waiting for a taxi in the cold rain, while hungover.**_
+
+_PS: Never settle with one service, call all three for the quota, to get the cheapest price available._
+
+**To Call 848 Taxis**: **[01524848848](tel:01524848848)** 
+
+**To Call 32090 Taxis**: **[0152432090](tel:0152432090)** 
+
+**To Call Coastal Taxis**: **[0152460000](tel:0152460000)** 
+
+For more details about the taxis: **[Click Here](https://www.lancaster.ac.uk/sustainability/action/travel/taxi-travel)** 
 
 ### _**[Press to go back](#list-of-content)**_
 

@@ -1,5 +1,5 @@
 ---
-layout: minimal_mistakes
+show_improve_this_site: false
 ---
 
 

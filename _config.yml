@@ -1,3 +1,4 @@
-theme: doks
+theme: "just-the-docs"
 title: LU Survival Guide
-show_improve_this_site: false
+aux_links:
+  "Improve this page": []

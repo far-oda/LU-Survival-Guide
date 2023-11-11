@@ -280,6 +280,8 @@ This works for people aged 16-25.
 
 If you are above that, then you can **[Click Here](https://www.railcard.co.uk)** instead, which is the same price but doesn't offer a 3-year plan. 
 
+You can get the 16-25 without the 3 year offer if you fill out a special form as a student: **[Click To Download it Here](https://www.16-25railcard.co.uk/download/clientfiles/files/Online%20Generic%20Railcards%20Application%20Form%20-%20Print%20at%20Home%20-%20Oct%202023.pdf)**
+
 As for the busses themselves, you will find that 100 and 4 are the **slowest**. 40, 1A, and 1 are the **fastest**, and 41 and 42 are the **mid**.
 
 Regarding the bus passes, If you use the bus more than 4 times a week then definitely get a bus pass, same goes for daily passes if you have more than one trip a day. 

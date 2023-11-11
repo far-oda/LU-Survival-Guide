@@ -111,7 +111,7 @@ For security reasons, you can **set a limit** for each card, **freeze them**, an
 
 It has a feature that shows you the graph of your spending and which category you splurge on the most. And if you have a pal with a Starling account too, you can pay them through NFC — no need for an account number or sort code. You can also request money through a link, have different exchange currencies, and deposit checks and cash at any postal office.
 
-• Sign up here: **[Click Here](https://www.starlingbank.com/referral/?code=T1GTYV)** 
+• Sign up here: **[Click Here](https://www.starlingbank.com/)** 
 
 _**PS: I do not recommend using monzo at all, they reject a lot of people for no reason, have very strict limits on cash usage, and their fees are high.**_
 
@@ -121,9 +121,9 @@ Same vibe as Starling but with their own twists. **Revolut** has this one-time c
 #### • Wise
 is your globe-trotter buddy with support for many worldwide currencies, so you can shuffle your dough between your currency and GBP with low fees.
 
-• Sign up here for **Revolut**:  **[Click Here](https://revolut.com/referral/?referral-code=fares0y8x!OCT1-23-AR-H2S)** 
+• Sign up here for **Revolut**:  **[Click Here](https://revolut.com/)** 
 
-• Sign up here for **Wise**:  **[Click Here](https://wise.com/invite/ahpc/faresa408)** 
+• Sign up here for **Wise**:  **[Click Here](https://wise.com/)** 
 
 ### _**[Press to go back](#list-of-content)**_
 
@@ -137,7 +137,7 @@ It's a no-brainer to add your cards to a digital wallet, so you've got your fina
 ### PayPal
 Once you've got your bank sorted, hook yourself up with a PayPal account. Sometimes websites give the cold shoulder to certain cards due to region restrictions, but they'll roll out the red carpet for PayPal—even though it's the same card. Don't ask why, it's just how it is.
 
-• Sign up here:  **[Click Here](https://py.pl/126vah)** 
+• Sign up here:  **[Click Here](https://py.pl/)** 
 
 
 ### Splitwise
@@ -167,7 +167,7 @@ _**The risky bit?**_
 Even though the market has mood swings and stable coins tend to just chill, if something funky happens (not that Binance is shady or anything), folks might panic and make moves they'll regret—like trying to play the market. 
 Beginners, keep your hands to yourselves here.
 
-• Sign up here:  **[Click Here](https://accounts.binance.com/register?ref=157983035)** 
+• Sign up here:  **[Click Here](https://accounts.binance.com/register)** 
 
 For other financial wisdom, check out this page:  **[Click Here](https://portal.lancaster.ac.uk/ask/money/managing)** 
 
@@ -302,7 +302,7 @@ If you need a good provider that has cheap deals and good service, then I highly
 
 I’ve tried most of them, and this one is just right. 
 
-• For Voxi, sign up here:  **[Click Here](https://join.voxi.co.uk/mtfflc)** 
+• For Voxi, sign up here:  **[Click Here](https://join.voxi.co.uk/)** 
 
 ### _**[Press to go back](#list-of-content)**_
 

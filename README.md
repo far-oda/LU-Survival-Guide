@@ -2,7 +2,7 @@
 
 _By: Fares Al-Odat_
 
-*For questions or suggestions, contact me on: [support@cybersec.8shield.net](mailto:support@cybersec.8shield.net)*
+*For questions or suggestions, contact me on: Email: [support@cybersec.8shield.net](mailto:support@cybersec.8shield.net)*  | Or [Instagram](https://instagram.com/fakefaresalodat)
 
 If you don’t find something you can check the ASK page: 
 [Click Here](https://portal.lancaster.ac.uk/ask/), call the university, or email me at the address above.

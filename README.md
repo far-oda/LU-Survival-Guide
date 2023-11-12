@@ -9,6 +9,8 @@ If you don’t find something you can check the ASK page:
 
 # List of Content:
 
+**[Digital Security](#digital-security)** 
+
 **[Suggested Apps](#suggested-apps)** | **[iLancaster](#ilancaster)** | **[Navigation Apps](#navigation-apps)**
 
 **[Banking](#banking)** | **[Banking Addons](#banking-addons)**
@@ -28,6 +30,82 @@ If you don’t find something you can check the ASK page:
 **[Fun](#fun)** | **[Social Hub/Trips](#social-hubtrips)** | **[Clubbing](#sugarhousevibegreenscraftysgenerations)**
 
 **[Going Back Home](#going-back-home)** | **[Travelling Outside UK](#travelling-outside-uk)** | **[Final Thoughts](#final-thoughts)** 
+
+## Digital Security
+Navigating the digital world without getting screwed over is like trying to get through a minefield blindfolded. But hey, you've got me, and I've got your back. Let's crack on and armor up your digital life.
+
+## Why should you care? Understanding Risks
+Thinking you're not a target for cybercrime 'cause you're "just an average Joe" is like leaving your front door wide open because you think burglars only hit mansions. Spoiler: they don't give a damn. They'll ransack your cozy cottage just as quickly as a penthouse if the door's unlocked. Every piece of personal data you've got – it's like cash in your drawer. Would you leave that out in the open? Heck no. Cybersecurity isn't about being paranoid; it's about not being the low-hanging fruit that gets picked first when the thieves come prowling. So lock it down, armor up, and make those data-grubbing gremlins work for nothing.
+
+### Open Sourced Software vs Closed Sourced
+**Closed source software** is a sketchy van with "free candy" – a damn magic show of smoke and mirrors. You don't know the hell inside or want to find out what's behind the curtain. **Open source** is your neighborhood watch, transparent like a local theater with every script and hiccup out in the open. Bugs and flaws are aired out and squashed fast, keeping your digital life solid with open sourced tools like **Firefox**, **LibreOffice**, and **GIMP** for all your browsing, docs, and image editing. Stick with open source, always search for that option first, it's less of a gamble.
+
+### Secure Password Practices
+Listen up, folks: Passwords are the guardians of your digital realm, and "password123" just won't cut it — it's like securing your fortress with a string. Throw in a cocktail of uppercases, numbers, and symbols like they're the secret ingredients to your security recipe with a minimum character limit of 15. And don't go repeating them like a broken record across different sites; that's a hacker's buffet. Craft a passphrase mighty enough to make a Russian hacker throw in the towel — imagine ‘2B||!2B_That-IsThe?’. It's a nod to Shakespeare, and a middle finger to cyber thieves.
+
+### Password Managers
+Think of password managers as badass vaults that keep your secret codes safer than gold in a bank. You only need to remember one super-strong password, and it locks down all your other ones. But don’t screw up and forget this big one, or you’re toast.so make it very complex and yet memorable (at least 30 character long)
+
+Here's the deal: We're all sick of trying to remember a zillion passwords, right? Without a password manager, trying to remember all your passwords is a hot mess. It's like trying to count squirrels on a sugar rush. So, check out these rock-solid, open-source password managers:
+
+**• Bitwarden**: It's solid and simple to use. You can get to your passwords from anywhere, and they're all under serious lock and key. **[Click Here to Checkout Bitwarden](https://vault.bitwarden.com/)** 
+
+_**I Highly recommend bitwarden since it has a cloud version so you just download the app, create an account and it's available everywhere, I personally use it on a daily basis and have over 600 accounts saved on it, including bank accounts, credit cards, secure notes, websites logins, MFA codes, and other files that need to be secure.**_
+
+**• KeePassXC**: No frills, just tough-as-nails security. You handle everything, which means no online shenanigans with your info. **[Click Here to Checkout KeePassXC](https://keepassxc.org/)** 
+
+_**This solution is for people who wants their password managers to be completely offline which is fine but less convenient**_
+
+**• LessPass**: This one’s clever. It makes up new passwords for you every time, based on some math magic and your one big password. **[Click Here to Checkout LessPass](https://www.lesspass.com/)** 
+
+
+**PS: DO NOT get a service like lastpass, or 1password, or anything other than what I recommended to you, they are closed sourced programs, badly audited and have been breached many times.The ones I've mentioned have been working on a zero knowledge protocol and have been secure since day one and will remain as such.**
+
+Get yourself one of these, and you can forget about password panic for good. Just set it up and chill.
+
+### Multi factor authentication (MFA) and Security Keys
+
+Your password is your first line of defense, and a damn good one is non-negotiable. But even the mightiest password needs a wingman, and that's where multi-factor authentication (MFA) comes in. It’s essential, like that extra shot in your morning coffee. 
+Use open sourced apps like **[Aegis Authenticator](https://getaegis.app/)**  for android and **[Raivo OTP](https://raivo-otp.com/)**  for iOS, and if you gave bitwarden premium you can store your MFA codes there too and have faster access but it's not a must, just convenience.
+
+Some services like microsoft have their own authenticator to manage their office account and there's no way around it so use **[Microsoft Authenticator](https://www.microsoft.com/en-gb/security/mobile-authenticator-app)** for their services but not as your main MFA app, same goes with **[Twilio Authy](https://authy.com/download/)** with services like **twitch**.
+
+_I don't trust closed sourced software because once a breach happens you will be freaking out if your data was leaked._
+
+Another form of MFA is the use of security keys.
+Think of security keys as your own personal cyber SWAT team. They're compact devices that act as a physical passkey to your online life. Unlike a password, which a sly hacker could snag, a security key is a tangible, uncrackable piece of hardware. You plug it in or tap it for near-unbreakable access control — it's the real-world equivalent of a retinal scan in those spy movies.
+
+So, why not just MFA? Because even a code can be phished, intercepted, or swiped by a keen-eyed looky-loo. But a security key? You might as well be wearing an invisibility cloak.
+
+Want to bulletproof your data? Get a security key. Brands like **[ONLYKEY](https://onlykey.io/collections/all)**, **[YubiKey](https://www.yubico.com/products/)** , or **[Google Titan](https://cloud.google.com/titan-security-key)** are the gold standard. They're the extra mile you run to ensure that the only person getting into your accounts is you. No key, no entry. It's peace of mind in a world full of digital pickpockets.
+
+_I Personally use ONLYKEY because it's opensourced and has way too much customisation which I love, but for simplicity I suggest getting a yubikey with NFC or a good Titan Key, and if you feel more confortable with them and want to be very tech savvy then buy an ONLYKEY, you'll love them all_
+
+### Avoiding Scams and Frauds
+Scams are like cockroaches on the web – turn on the light, and they scatter. So keep your BS detector on high. Lottery wins from lotteries you never entered? Foreign dignitaries with cash problems? That's not your lucky day calling; that's trouble knocking.
+
+### Recognizing Phishing Attempts
+Phishing emails are the sleazy con artists of the internet, dolled up with urgent subjects but sloppy as a drunk at closing time. They'll promise you a lottery win or spook you with a hacked account alert, all shinier and faker than a plastic gold watch. And then there's the attachments—digital trojan horses packed to the brim with malware nastier than a virus on a hospital keyboard. Keep your eyes peeled for sender emails that look like a keyboard smash, links that reek of scam like a week-old fish in the sun, and grammar so butchered it’s like they threw the dictionary in a blender. Don’t be tempted by their attached crap—could be a ransomware grenade waiting to blow your digital life to smithereens. Any click could be the mousetrap—so if it whiffs of bullshit, hit delete faster than you’d swipe left on a bad dating profile.
+
+### Safe Browsing Habits
+When you're cruising through the internet's backstreets, make damn sure you're rolling with 'https' and a padlock by your side. That 's' isn't just for show; it's your bulletproof vest. Without it, you're just asking to get mugged. And if your browser starts screaming "Get the hell out!" with its warnings, you best listen or you're asking for trouble.
+
+### Using Public Wi-Fi (Free Wi-Fi)
+Jumping on public Wi-Fi without protection is like skinny-dipping in a swamp full of gators. Sure, splash around for the harmless stuff, but when it comes to the juicy bits of your digital life, cloak up with a **VPN**. It's like hiding in plain sight from the cyber-vultures circling overhead.
+
+**If you want to get a vpn service, then I highly recommend checking this website that dissect each service and how good it is**: **[Click Here](https://www.techlore.tech/vpn)**
+
+### Basic Cyber Hygiene
+Keep your digital hygiene tighter than your grandma's Tupperware. Don't leave your gadgets logged in or your info spread out like an all-you-can-steal buffet. Treat your personal details like they're gold dust – because in the wrong hands, buddy, they're dynamite.
+
+### Protecting Personal Data
+Your personal data is your secret sauce – don't go splashing it all over the internet like hot sauce on a taco. Dial those privacy settings to 'Fortress' and remember: the net's got a longer memory than the elephant in the room.
+
+### Software Updates and Backups
+Slam that update button like it's an annoying alarm clock. It's not nagging; it's nudging you away from a cliff. And backups? That's your safety net when you're walking the high wire over the pit of digital despair. No backup, no pity party.
+
+
+### _**[Press to go back](#list-of-content)**_
 
 ## Suggested Apps
 Here’s a list of apps that you must have in Lancaster as a student:
@@ -331,6 +409,7 @@ Just book a slot, flash your current CV, and if it's non existent, they'll help 
 PS: They do have meetings every friday in Social Hub Kitchen from
 
 ### _**[Press to go back](#list-of-content)**_
+
 
 ## Annoyances on campus
 Nothing is perfect in this world, sorry. 

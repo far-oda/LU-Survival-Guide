@@ -48,18 +48,19 @@ Think of password managers as badass vaults that keep your secret codes safer th
 
 Here's the deal: We're all sick of trying to remember a zillion passwords, right? Without a password manager, trying to remember all your passwords is a hot mess. It's like trying to count squirrels on a sugar rush. So, check out these rock-solid, open-source password managers:
 
-**• Bitwarden**: It's solid and simple to use. You can get to your passwords from anywhere, and they're all under serious lock and key. **[Click Here to Checkout Bitwarden](https://vault.bitwarden.com/)** 
+**• Bitwarden**: It's solid and simple to use. You can get to your passwords from anywhere, and they're all under serious lock and key. **[Click Here For Bitwarden](https://vault.bitwarden.com/)** 
 
-_**I Highly recommend bitwarden since it has a cloud version so you just download the app, create an account and it's available everywhere, I personally use it on a daily basis and have over 600 accounts saved on it, including bank accounts, credit cards, secure notes, websites logins, MFA codes, and other files that need to be secure.**_
+_**I Highly recommend bitwarden since it has a cloud version so you just download the app, create an account and it's available everywhere. 
+I personally use it on a daily basis and have over 600 accounts saved on it, including bank accounts, credit cards, secure notes, websites logins, MFA codes, and other files that need to be secure.**_
 
-**• KeePassXC**: No frills, just tough-as-nails security. You handle everything, which means no online shenanigans with your info. **[Click Here to Checkout KeePassXC](https://keepassxc.org/)** 
+**• KeePassXC**: No frills, just tough-as-nails security. You handle everything, which means no online shenanigans with your info. **[Click Here For KeePassXC](https://keepassxc.org/)** 
 
 _**This solution is for people who wants their password managers to be completely offline which is fine but less convenient**_
 
-**• LessPass**: This one’s clever. It makes up new passwords for you every time, based on some math magic and your one big password. **[Click Here to Checkout LessPass](https://www.lesspass.com/)** 
+**• LessPass**: This one’s clever. It makes up new passwords for you every time, based on some math magic and your one big password. **[Click Here For LessPass](https://www.lesspass.com/)** 
 
 
-**PS: DO NOT get a service like lastpass, or 1password, or anything other than what I recommended to you, they are closed sourced programs, badly audited and have been breached many times.The ones I've mentioned have been working on a zero knowledge protocol and have been secure since day one and will remain as such.**
+**PS: DO NOT get a service like LastPass, Dashlane, Keeper or 1Password, or anything other than what I recommended to you, they are closed sourced programs, badly audited and have been breached many times (_[Here's Proof](https://password-managers.bestreviews.net/faq/which-password-managers-have-been-hacked/)_).The ones I've mentioned have been working on a zero knowledge protocol and have been secure since day one and will remain as such.**
 
 Get yourself one of these, and you can forget about password panic for good. Just set it up and chill.
 
@@ -104,6 +105,7 @@ Your personal data is your secret sauce – don't go splashing it all over the i
 ### Software Updates and Backups
 Slam that update button like it's an annoying alarm clock. It's not nagging; it's nudging you away from a cliff. And backups? That's your safety net when you're walking the high wire over the pit of digital despair. No backup, no pity party.
 
+**_Your digital life’s a juicy steak in a world full of wolves. Lock it down with gnarly passwords and be stingy with your data—don’t splash it around like cheap beer at a dive bar. Encrypt your stuff with open source and VPNs like they’re freakin' superpowers. Updates? Hit ‘em hard and fast. Backups? Hell yeah, like your life's a non-stop action movie. Stay sharp, play it smart, and keep the digital bloodsuckers thirsty. Now go own the net like a boss._**
 
 ### _**[Press to go back](#list-of-content)**_
 

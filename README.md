@@ -9,7 +9,7 @@ If you don’t find something you can check the ASK page:
 
 # List of Content:
 
-**[Digital Security](#digital-security)** | **[Charity Donations](#digital-security)**
+**[Digital Security](#digital-security)** | **[Charity Donations](#charity-donations)**
 
 **[Suggested Apps](#suggested-apps)** | **[iLancaster](#ilancaster)** | **[Library and Service Links](#library)** | **[Navigation Apps](#navigation-apps)**
 

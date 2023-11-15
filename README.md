@@ -1,17 +1,17 @@
  **Survival Guide For Graduate College Students** 
 
-_By: Fares Al-Odat_
+_By: Fares Al-Odat — Former Masters Student_
 
-*For questions or suggestions, contact me on: [Email](mailto:support@cybersec.8shield.net)* | [Instagram](https://instagram.com/fakefaresalodat) | [Whatsapp](https://wa.me/message/4GY3OIXPAJSVE1)
+*For questions or suggestions, contact me on:  [Email](mailto:support@cybersec.8shield.net)* | [Instagram](https://instagram.com/fakefaresalodat) | [Whatsapp](https://wa.me/message/4GY3OIXPAJSVE1)
 
 If you don’t find something you can check the ASK page: 
-[Click Here](https://portal.lancaster.ac.uk/ask/), call the university, or email me at the address above.
+[Click Here](https://portal.lancaster.ac.uk/ask/), call the university, or cntact me on the details above.
 
 # List of Content:
 
-**[Digital Security](#digital-security)** 
+**[Digital Security](#digital-security)** | **[Charity Donations](#digital-security)**
 
-**[Suggested Apps](#suggested-apps)** | **[iLancaster](#ilancaster)** | **[Navigation Apps](#navigation-apps)**
+**[Suggested Apps](#suggested-apps)** | **[iLancaster](#ilancaster)** | **[Library and Service Links](#library)** | **[Navigation Apps](#navigation-apps)**
 
 **[Banking](#banking)** | **[Banking Addons](#banking-addons)**
 
@@ -109,6 +109,16 @@ Slam that update button like it's an annoying alarm clock. It's not nagging; it'
 
 ### _**[Press to go back](#list-of-content)**_
 
+## Charity Donations
+
+Are you ever caught in that dilemma, wanting to donate but unsure where your money actually ends up? It's a common worry: you're ready to give, but the nagging question is - will it really make a difference, or just line someone's pockets?
+
+**Well, stress no more!** I've discovered this amazing platform: **Charity Navigator**. It's like the trusty compass in the chaotic world of charitable giving. This website diligently vets various charities, ensuring that your hard-earned money genuinely contributes to the causes you care about.
+
+You can effortlessly explore and verify charities for different causes. It's the reassurance we all need - a guarantee that our donations are truly impactful. So, why not take a leap of faith and check them out? You can easily start your journey of impactful giving by **[Clicking Here](https://www.charitynavigator.org)**.
+
+### _**[Press to go back](#list-of-content)**_
+
 ## Suggested Apps
 Here’s a list of apps that you must have in Lancaster as a student:
 
@@ -118,18 +128,23 @@ This app will be your everyday guide throughout the campus, whether its classes,
 
 Here’s a list of notable features:
 
-**Self Check-in**: The professor won’t check you in for class; you will do it yourself through the app. Just go to the calendar section, open the day’s session, and you can check in 5 min before the start of the lecture.
+### Self Check-in 
+The professor won’t check you in for class; you will do it yourself through the app. Just go to the calendar section, open the day’s session, and you can check in 5 min before the start of the lecture.
 _Fun tip_: If you’re not feeling like attending, you can check in outside the class, just be close enough to the room.
 
-**Map**: It’s similar to mazemaps but more oriented for the campus. It displays available PC spaces, laundry space availability, buses, food places, and even booking spaces.
+### Map
+It’s similar to mazemaps but more oriented for the campus. It displays available PC spaces, laundry space availability, buses, food places, and even booking spaces.
 
-**FixAFault**: If anything is broken in your building, report it with FixAFault, and it will be sorted. You can access it through iLancaster or through this link: **[Click Here](https://www.lancaster.ac.uk/itpi/fix)** 
+### FixAFault
+If anything is broken in your building, report it with FixAFault, and it will be sorted. You can access it through iLancaster or through this link: **[Click Here](https://www.lancaster.ac.uk/itpi/fix)** 
 
 And if you want more information on this, follow this link: **[Click Here](https://portal.lancaster.ac.uk/ask/campus/campus-services/maintenance-and-upkeep/report-a-fault-with-on-campus-facilities)** 
 
-**Interactive Transcript**: Once your marks are released, you can see them in the interactive transcript section or at this link: **[Click Here](https://mylusi.lancaster.ac.uk/AcademicMarks)** 
+### Interactive Transcript
+Once your marks are released, you can see them in the interactive transcript section or at this link: **[Click Here](https://mylusi.lancaster.ac.uk/AcademicMarks)** 
 
-**Library**: This link provides everything you need when it comes to the library, including study space booking, reporting noise, and seeing any fines. Here’s a list of library and other links:
+### Library
+This link provides everything you need when it comes to the library, including study space booking, reporting noise, and seeing any fines. Here’s a list of library and other links:
 
 *[Database of resources](https://lancaster.libguides.com/az.php)* | *[Resources List](https://portal.lancaster.ac.uk/ask/study/library/resources/resource-lists)* | *[Library Opening Hours](https://portal.lancaster.ac.uk/ask/study/library/visiting)*
 
@@ -140,7 +155,8 @@ And if you want more information on this, follow this link: **[Click Here](https
 *[Printing](https://print.lancaster.ac.uk)* | *[Checking in](https://portal.lancaster.ac.uk/ask/attendance)* | *[LinkedIn Learning](https://portal.lancaster.ac.uk/ask/study/linkedinlearning)*
 
 
-**Laundry**: You can check the availability of the launderettes through iLancaster and pay for the washing through the *[Circuit app](https://www.circuit.co.uk/how-to-guides/circuit-laundry-app)*. I advise using PayPal to get a faster refund in case any issues occur.
+### Laundry
+You can check the availability of the launderettes through iLancaster and pay for the washing through the *[Circuit app](https://www.circuit.co.uk/how-to-guides/circuit-laundry-app)*. I advise using PayPal to get a faster refund in case any issues occur.
 
 
 

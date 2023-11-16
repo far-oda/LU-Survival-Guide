@@ -130,7 +130,7 @@ Here’s a list of notable features:
 
 ### Self Check-in 
 The professor won’t check you in for class; you will do it yourself through the app. Just go to the calendar section, open the day’s session, and you can check in 5 min before the start of the lecture.
-_Fun tip_: If you’re not feeling like attending, you can check in outside the class, just be close enough to the room.
+_Fun tip_: If you’re not feeling like attending, you can check in outside the class, just be close enough to the room. You paid a high amount for guidance so I suggest you attend regardless.
 
 ### Map
 It’s similar to mazemaps but more oriented for the campus. It displays available PC spaces, laundry space availability, buses, food places, and even booking spaces.
@@ -292,7 +292,7 @@ When it comes to health in the UK, the NHS is the main entity, and frankly speak
 _When I got sick, I couldn't get antibiotics, which I needed because the GP said I didn't need them, while my doctors back home said that I did. So, not the best experience._ 
 Here’s a link for health on campus: **[Click Here](https://portal.lancaster.ac.uk/ask/campus/campus-services/health-services-on-campus)** 
 
-_**I highly advise you to bring any prescription medication that is vital to your health with you from your country or on your next visit there, just in case your GP is as useless as mine was.**_
+_**I highly advise you to bring any prescription medication that is vital to your health with you from your country or on your next visit there (with the permission of your doctor of course), just in case your GP is as useless as mine was.**_
 
 #### Physical wellness (Gym)
 The gym is not only for getting your muscles big and losing weight, but it also provides great stress relief, which is vital while studying. 
@@ -365,7 +365,12 @@ Schemes such as **UniDays**, **Student Beans**, and **NUS Totum** offer discount
 
 • For Totum, sign up here:  **[Click Here](https://totum.com)** 
 
+
+### Free events:
+Be on the lookout on the graduate college Insta and the ical for any events happening, most of them are free and fun. 
+
 ### _**[Press to go back](#list-of-content)**_
+
 
 ### Travel 
 _**For traveling by train, it's best to get a railcard for the year; it will provide a 1/3 saving on each trip. It will pay for itself in just a few trips, costing only £30 a year or £70 for 3 years.**_
@@ -378,7 +383,7 @@ If you are above that, then you can **[Click Here](https://www.railcard.co.uk)**
 
 You can get the 16-25 without the 3 year offer if you fill out a special form as a student: **[Click To Download it Here](https://www.16-25railcard.co.uk/download/clientfiles/files/Online%20Generic%20Railcards%20Application%20Form%20-%20Print%20at%20Home%20-%20Oct%202023.pdf)**
 
-As for the busses themselves, you will find that 100 and 4 are the **slowest**. 40, 1A, and 1 are the **fastest**, and 41 and 42 are the **mid**.
+As for the buses themselves, you will find that 100 and 4 are the **slowest**. 40, 1A, and 1 are the **fastest**, and 41 and 42 are the **mid**.
 
 Regarding the bus passes, If you use the bus more than 4 times a week then definitely get a bus pass, same goes for daily passes if you have more than one trip a day. 
 
@@ -431,7 +436,7 @@ PS: They do have meetings every friday in Social Hub Kitchen from
 
 ## Annoyances on campus
 Nothing is perfect in this world, sorry. 
-From loud people ruining focus, to smell of weed everywhere, to aggressive and creepy behaviours. Don’t be silent, you can always contact security, or the porter and you should, to help you and your fellow students.
+From loud people ruining focus, to smell of weed everywhere without a source of origin, to laundrygate, to aggressive and creepy behaviours. Don’t be silent, you can always contact security, or the porter and you should, to help you and your fellow students.
 
 **Graduate Porter Number**: **[01524593194](tel:01524593194)** 
 
@@ -462,9 +467,7 @@ Need juice for your gadgets? Hit up the charging lockers: **[Click Here](https:/
 If you're wondering when the heat's on or off on campus, this link's got you: **[Click Here](https://portal.lancaster.ac.uk/ask/campus/campus-services/maintenance-and-upkeep/heating-on-campus)** 
 
 ### Fire alarm
-That Wednesday at 1 PM sharp noise test? Yeah, that's the fire alarm. For the full drill, 
-
-For more information: **[Click Here](https://portal.lancaster.ac.uk/ask/campus/campus-services/maintenance-and-upkeep/fire-fighting-and-prevention-on-campus)** 
+That Wednesday at 1 PM sharp noise test? Yeah, that's the fire alarm. For the full drill: **[Click Here](https://portal.lancaster.ac.uk/ask/campus/campus-services/maintenance-and-upkeep/fire-fighting-and-prevention-on-campus)** 
 
 ### _**[Press to go back](#list-of-content)**_
 
@@ -499,6 +502,10 @@ When it comes to clubbing then there’s plenty of places in town to do so.
 
 **Generations** which is an LGBTQ+ club which has a fun atmosphere and open till 4 AM.
 
+To save money, always book online:
+For Sugarhouse use  **[Eventbrite](https://www.eventbrite.co.uk/)**. 
+For Vibe use **[Fatsoma](https://www.fatsoma.com/)**. 
+
 ### Going Back Home
 with clubbing comes going home eventually. 
 
@@ -520,6 +527,7 @@ _PS: Never settle with one service, call all three for the quota, to get the che
 
 **To Call Coastal Taxis**: **[0152460000](tel:0152460000)** 
 
+_Usually 848 is the cheapest._
 For more details about the taxis: **[Click Here](https://www.lancaster.ac.uk/sustainability/action/travel/taxi-travel)** 
 
 ### _**[Press to go back](#list-of-content)**_

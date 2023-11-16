@@ -515,7 +515,7 @@ If you go out and coming back after 12 AM then the only bus available back to un
 
 In lancaster there's 3 taxi companies: **848 Taxis**, **32090 Taxis**, and **Coastal Taxis.** They accept cash and card.
 
-_**Uber** very rarely works in lancaster._
+_**Uber** Does Not work in lancaster._
 
 _**I Highly advise to book a taxi half a day in advanced if there's a festival/event/holiday going on, since the sheer amount of people coming back will create traffic and you don't want to be waiting for a taxi in the cold rain, while hungover.**_
 

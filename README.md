@@ -5,7 +5,7 @@ _By: Fares Al-Odat — Former Masters Student_
 *For questions or suggestions, contact me on:  [Email](mailto:support@cybersec.8shield.net)* | [Instagram](https://instagram.com/fakefaresalodat) | [Whatsapp](https://wa.me/message/4GY3OIXPAJSVE1)
 
 If you don’t find something you can check the ASK page: 
-[Click Here](https://portal.lancaster.ac.uk/ask/), call the university, or cntact me on the details above.
+[Click Here](https://portal.lancaster.ac.uk/ask/), call the university, or contact me on the details above.
 
 # List of Content:
 
